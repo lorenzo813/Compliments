@@ -1,33 +1,26 @@
-{
-    "anytime" : [
-        "WoW！"
-    ],
-    "day_sunny" : [
-        "这是还没睡呢还是已经起了？",
-        "天马上就亮了",
-        "要不再睡会？"
-    ],
-    "day_cloudy" : [
-        "新的一天开始了！",
-        "你不是才起床吧？",
-        "要加油哦！"
-    ],
-    "cloudy_windy" : [
-        "午饭可以多吃点",
-        "打个盹？"
-    ],
-    "rain" : [
-        "下午好！",
-        "今天的计划完成了吗？"
-    ],
-    "showers" : [
-        "晚上来场电影吧！",
-        "精彩的一天马上就要结束了！",
-        "晚饭没吃多吧？"
-    ],
-    "thunderstorm" : [
-        "还不睡？",
-        "赶紧去上床！",
-        "晚安.."
-    ]
-}
+    {
+        "anytime" : [
+            "Hi, sexy!"
+        ],
+        "morning" : [
+            "Have a good day!"
+        ],
+        "afternoon" : [
+            "Almost dinnertime!"
+        ],
+        "evening" : [
+            "You rock!"
+        ],
+        "day_sunny" : [
+            "It's gonna be a sunny day!"
+        ],
+        "rain" : [
+            "Bring an umbrella today!!"
+        ],
+        "night_clear" : [
+            "Good night for stargazing!"
+        ],
+        "cloudy" : [
+            "Cloudy today... hmmm..."
+        ]
+    }
