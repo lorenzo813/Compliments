@@ -1,26 +1,26 @@
     {
         "anytime" : [
-            "Hi, sexy!"
-        ],
-        "morning" : [
-            "Have a good day!"
-        ],
-        "afternoon" : [
-            "Almost dinnertime!"
-        ],
-        "evening" : [
-            "You rock!"
+            "111"
         ],
         "day_sunny" : [
-            "It's gonna be a sunny day!"
+            "Have a good day!"
         ],
-        "rain" : [
-            "Bring an umbrella today!!"
-        ],
-        "night_clear" : [
-            "Good night for stargazing!"
+        "day_cloudy" : [
+            "Almost dinnertime!"
         ],
         "cloudy" : [
+            "You rock!"
+        ],
+        "cloudy_windy" : [
+            "It's gonna be a sunny day!"
+        ],
+        "showers" : [
+            "Bring an umbrella today!!"
+        ],
+        "rain" : [
+            "Good night for stargazing!"
+        ],
+        "thunderstorm" : [
             "Cloudy today... hmmm..."
         ]
     }
