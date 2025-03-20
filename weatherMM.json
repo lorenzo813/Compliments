@@ -6,7 +6,10 @@
             "Have a good day!"
         ],
         "day_cloudy" : [
-            "Almost dinnertime!"
+		"云移雉尾开宫扇，日绕龙鳞识圣颜",
+		"我欲穿花寻路，直入白云深处，浩气展虹霓",
+		"登高一长望，万里皆积云",
+		"黑云压城城欲摧，甲光向日金鳞开"
         ],
         "cloudy" : [
             "You rock!"
